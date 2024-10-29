@@ -7,3 +7,4 @@
     - react
     - reactDOM
     - react-router-dom
+    - tailwindCSS - refer documentation 
